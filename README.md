@@ -3,7 +3,8 @@ A simple BASH script for extraction of infared intensities from DFPT calculation
 
 This webspace is a continuation of my former project I had placed earlier at:  
 <del>&nbsp; http://homepage.univie.ac.at/david.karhanek/downloads.html &nbsp;</del>   
-My personal site at the University of Vienna is down/discontinued - **please refer to [this github.com location](https://github.com/dakarhanek/VASP-infrared-intensities/) hereafter**.
+My personal site at the University of Vienna is down/discontinued ->  
+ -> **please refer to [this github.com location](https://github.com/dakarhanek/VASP-infrared-intensities/) or [DOI 10.5281/zenodo.3930989](https://dx.doi.org/10.5281/zenodo.3930989) hereafter**.
 
 The idea of publishing the script originated in 2011 (and that's still the status quo) in a CCL mailing list:   
 http://www.ccl.net/chemistry/resources/messages/2011/04/06.004-dir/     
