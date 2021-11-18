@@ -6,7 +6,7 @@
 printf "..reading OUTCAR"
 BORN_NROWS=`grep NIONS OUTCAR | awk '{print $12*4+1}'`
 if [ `grep 'BORN' OUTCAR | wc -l` = 0 ] ; then printf " .. FAILED! Born effective charges missing! Bye! \n\n" ; exit 1 ; fi
-grep "in e, cummulative" -A $BORN_NROWS OUTCAR > born.txt
+grep "in |*e|*, cummulative" -A $BORN_NROWS OUTCAR > born.txt # regexp to get both Vasp5 and Vasp6 
 
 # extract Eigenvectors and eigenvalues
 if [ `grep 'SQRT(mass)' OUTCAR | wc -l` != 1 ] ; then printf " .. FAILED! Restart VASP with NWRITE=3! Bye! \n\n" ; exit 1 ; fi
