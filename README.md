@@ -8,7 +8,7 @@ My personal site at the University of Vienna is down/discontinued ->
 
 The idea of publishing the script originated in 2011 (and that's still the status quo) in a CCL mailing list:   
 http://www.ccl.net/chemistry/resources/messages/2011/04/06.004-dir/     
-Kind thanks to [Ralf Tonner]() and [Tomáš Bučko](https://www.researchgate.net/profile/Tomas_Bucko) for their contribution.
+Kind thanks to [Ralf Tonner](https://www.researchgate.net/profile/Ralf-Tonner-Zech) and [Tomáš Bučko](https://www.researchgate.net/profile/Tomas_Bucko) for their contribution.
 
 ---
 
